@@ -5,5 +5,9 @@ $(document).ready(function () {
         console.log('heelo')
             $('.centerdiv').toggleClass('none');
     })
+    $('.taper').on('click', function() {
+        console.log('heelo')
+            $('.centerdiv').toggleClass('none');
+    })
 
 });

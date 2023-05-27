@@ -79,7 +79,7 @@ section {
     gap: 20px;
     justify-content: center;
     height: 383px;
-    width: 100%;
+    width: 628px;
     text-align: center;
     padding: 30px 118px 17px 62px;
 }
@@ -88,7 +88,12 @@ section {
     width: 340px;
 }
 .flex_top_right {
+    width: 711px;
     padding: 30px 96px 43px 118px;
+}
+.flex_top_right > img {
+    width: 497px;
+    height: 357px;
 }
 button {
     color: #fff;
